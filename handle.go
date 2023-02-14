@@ -37,5 +37,5 @@ func prettyPrint(req *http.Request) string {
 		}
 	}
 
-	return b.String()
+	return "roger-v1"
 }
